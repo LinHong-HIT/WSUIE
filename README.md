@@ -9,7 +9,7 @@ Created by Lin Hong, email: 20B953023@stu.hit.edu.cn
 1. Python 3.8.
 1. Pytorch 1.4.0
 
-
+The script to get depth map (https://pan.baidu.com/s/1fNcvkxMT-WhhgUwwYNoKbA), fetch code [pgb8]
 ### Our source code will released soon. !!!!
 
 ## UUIE dataset
