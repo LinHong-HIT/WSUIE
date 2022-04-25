@@ -13,7 +13,7 @@ Created by Lin Hong, email: 20B953023@stu.hit.edu.cn
 ### Our source code will released soon. !!!!
 
 ## UUIE dataset
-UUIE dataset (https://ieeexplore.ieee.org/document/9516935) contains 4088 raw underwater images and 5629 high-quality images, and there are 50 raw underwater images and 50 high-quality images for the model test. As far as we know, the UUIE is the first public dataset dedicated to the research of weakly supervised underwater image enhancement. It is free for academic research, not for any commercial purposes.
+UUIE dataset (https://pan.baidu.com/s/1r8iGIjYK1OC5BKOrq6DFJw) fetch code [3qum] contains 4088 (extend to 4096)raw underwater images and 5629 (extend to 5848) high-quality images, and there are 50 (extend to 200) raw underwater images and 50 high-quality images for the model test. As far as we know, the UUIE is the first public dataset dedicated to the research of weakly supervised underwater image enhancement. It is free for academic research, not for any commercial purposes.
 
 Its folder looks like this:
 ````
@@ -22,8 +22,7 @@ Its folder looks like this:
    |   |-- train A
    |   |-- train B
    |-- test set
-   |   |-- test A
-   |   |-- test B
+   |   |-- test set
 ````
 Samples in UUIE dataset
 ![](datasetsamples.png)
