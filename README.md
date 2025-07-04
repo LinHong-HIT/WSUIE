@@ -1,7 +1,7 @@
 ## WSUIE 
-Source code and dataset for our paper [WSUIE: Weakly Supervised Underwater Image Enhancement for Improved Visual Perception](https://ieeexplore.ieee.org/document/9516935) by Lin Hong, Xin Wang, Zhenlong Xiao, Gan Zhang, and Jun Liu,
+Source code and dataset for our paper "**[WSUIE: Weakly Supervised Underwater Image Enhancement for Improved Visual Perception](https://ieeexplore.ieee.org/document/9516935)**" by Lin Hong, Xin Wang, Zhenlong Xiao, Gan Zhang, and Jun Liu,
 
-Created by Lin Hong, email: 20B953023@stu.hit.edu.cn
+Created by **Lin Hong**, email: eelinhong@ust.hk or 20B953023@stu.hit.edu.cn
 
 ![](Introduction.png)
 
