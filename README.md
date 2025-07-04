@@ -1,4 +1,4 @@
-## WSUIE: Weakly Supervised Underwater Image Enhancement for Improved Visual Perception (RA-L 2021) [Paper](https://ieeexplore.ieee.org/document/9516935) 
+## WSUIE: Weakly Supervised Underwater Image Enhancement for Improved Visual Perception (IEEE RA-L 2021) [Paper](https://ieeexplore.ieee.org/document/9516935) 
 Source code and dataset for our paper “WSUIE: Weakly Supervised Underwater Image Enhancement for Improved Visual Perception” by Hong, Lin and Wang, Xin and Xiao, Zhenlong and Zhang, Gan and Liu, Jun
 
 Created by Lin Hong, email: 20B953023@stu.hit.edu.cn
